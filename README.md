@@ -1,5 +1,5 @@
 # playwright-loginsession-global-setup
-This repo is to demonstrate the use of login session management via global setup and project dependacies
+This repo is to demonstrate the use of login session management via global setup and project dependencies
 
 This example will show you how to use project dependencies to create a global setup that logins into an application and saves the state in storage state. This is useful if you want to run multiple tests that require a sign sign-in state and you want to avoid login for each test.
 
