@@ -1,0 +1,21 @@
+{
+  "name": "playwright-loginsession-global-setup",
+  "version": "1.0.0",
+  "description": "This repo is to demonstrate the use of login session management via global setup",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjnanda/playwright-loginsession-global-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjnanda/playwright-loginsession-global-setup/issues"
+  },
+  "homepage": "https://github.com/kjnanda/playwright-loginsession-global-setup#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  }
+}
